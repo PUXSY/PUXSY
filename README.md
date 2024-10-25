@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![](https://visitcount.itsvg.in/api?id=PUXSY&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PUXSY&label=Profile%20Views&color=7&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **PUXSY/PUXSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
