@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![](https://visitcount.itsvg.in/api?id=PUXSY&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **PUXSY/PUXSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 Tech Stack:
+[![Python](https://camo.githubusercontent.com/0975e0567b04603846bc4e36922def2b52d708fd0458b2d0abee5f6dd8fae3bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)](https://www.python.org/)
