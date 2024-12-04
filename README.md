@@ -1,11 +1,12 @@
 ## Hi there 👋 I'm 
 
-
-88""Yb 88   88 Yb  dP .dP"Y8 Yb  dP 
-88__dP 88   88  YbdP  `Ybo."  YbdP  
-88"""  Y8   8P  dPYb  o.`Y8b   8P   
-88     `YbodP' dP  Yb 8bodP'  dP    
-
+██████╗ ██╗   ██╗██╗  ██╗███████╗██╗   ██╗
+██╔══██╗██║   ██║╚██╗██╔╝██╔════╝╚██╗ ██╔╝
+██████╔╝██║   ██║ ╚███╔╝ ███████╗ ╚████╔╝ 
+██╔═══╝ ██║   ██║ ██╔██╗ ╚════██║  ╚██╔╝  
+██║     ╚██████╔╝██╔╝ ██╗███████║   ██║   
+╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   
+                                          
 
 [![](https://visitcount.itsvg.in/api?id=PUXSY&label=Profile%20Views&color=7&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
