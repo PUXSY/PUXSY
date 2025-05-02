@@ -1,4 +1,4 @@
-# Hi 👋, I'm Elori</h1>
+# Hi 👋, I'm Fuxy</h1>
 I am currently studying computer science in high school.<br>I am 16 years old btw
 
 
